@@ -1,0 +1,34 @@
+.card {
+  border: 1px solid #D6D6D6;
+  width: 300px;
+  border-radius: 8px;
+  padding: 2em;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-align: left;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.card-content h2 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 16px;
+  margin-bottom: 0;
+}
+
+.card-content .email {
+  color: #636363;
+}
+
+.card-content .subscriberId {
+  color: #a3a3a3;
+}
+
+.card-content .subscriberId span {
+  margin-left: 8px;
+}

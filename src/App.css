@@ -1,0 +1,14 @@
+.page-title {
+  color: #111111;
+  font-weight: 700;
+  line-height: 48px;
+  margin: 0;
+}
+
+.page-subtitle {
+  color: #636363;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: 10px;
+}

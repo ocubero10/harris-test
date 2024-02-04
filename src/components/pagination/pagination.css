@@ -1,0 +1,30 @@
+.pagination-wrapper {
+  margin-top: 30px;
+}
+
+.pagination-wrapper span {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+}
+
+.pagination-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.pagination-buttons button {
+  background-color: #111111;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 16px;
+  cursor: pointer;
+}
+
+.pagination-buttons button.btn-disabled {
+  background-color: #1111119d;
+}
